@@ -1,2 +1,2 @@
 # GIT-DEMO
-s
+not ff merge
